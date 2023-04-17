@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-photo/hand-using-gadgets-laptop-yellow-background-top-view-blank-screen-with-copyspace-minimalistic-style_155003-39793.jpg?w=826&t=st=1681748722~exp=1681749322~hmac=2993e1e6782238f0e29be50ca9dc72b5c5b682238139c9148c22915c7e8a215e)
 <h1 align="center">Hi 👋, I'm Pallav Bhowmick</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Coding" width="200" >
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Coding" width="175" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavbhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="pallavbhowmick" /> </p>
